@@ -1,8 +1,10 @@
 🔐 CryptoVault - Encryption & Decryption App
 A modern, secure, and user-friendly web application for encrypting and decrypting text and files using military-grade encryption algorithms.
 Show Image Show Image Show Image Show Image
+
 🌟 Live Demo
-🚀 Visit CryptoVault Live
+https://encryption-decryptionapp.22web.org/
+
 ✨ Features
 🔒 Text Encryption
 
@@ -63,7 +65,7 @@ Steps
 
 Clone the repository
 
-bashgit clone https://github.com/yourusername/cryptovault.git
+bashgit clone https://github.com/Ashel7577/cryptovault.git
 cd cryptovault
 
 Install dependencies
@@ -148,7 +150,7 @@ Website: encryption-decryptionapp.22web.org
 
 Icons by Lucide Icons
 UI inspiration from modern security applications
-Built with ❤️ using React and Vite
+Built with using React and Vite
 
 📧 Contact
 For questions or support, please open an issue or contact through GitHub.
@@ -159,4 +161,4 @@ This application is designed for educational and demonstration purposes. For pro
 📊 Project Status
 🟢 Active Development - Regular updates and improvements
 
-Made with 💙 by KW Nehemiya Ashel
+Made by KW Nehemiya Ashel
